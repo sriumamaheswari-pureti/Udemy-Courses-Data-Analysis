@@ -1,9 +1,9 @@
 
 # 📊 Udemy Courses Data Analysis 
 
-## 🚀 Project Overview
+🚀 Project Overview
 
-This project analyzes the **Udemy Courses Dataset** using Python and Pandas to extract meaningful insights about courses, pricing, subjects, and popularity.
+This project performs exploratory data analysis on the Udemy Courses dataset using Python and Pandas. It focuses on understanding course distribution across subjects, pricing (free vs paid), and popularity based on subscriber count. Various techniques such as data cleaning, filtering, grouping, and aggregation were applied to extract meaningful insights. The project demonstrates practical data analysis skills on a real-world dataset.
 
 ---
 
@@ -22,15 +22,6 @@ This project analyzes the **Udemy Courses Dataset** using Python and Pandas to e
 
 ---
 
-## 🛠️ Tech Stack
-
-* 🐍 Python
-* 📊 Pandas
-* 📈 Seaborn
-* 📉 Matplotlib
-
----
-
 ## 📊 Data Analysis Tasks
 
 1. What are all the different subjects for which Udemy is offering courses?
@@ -46,31 +37,41 @@ This project analyzes the **Udemy Courses Dataset** using Python and Pandas to e
 
 ---
 
-## 🔍 Data Exploration
+## 🛠️ Tech Stack
 
-* Count non-null values using Pandas
-* Detect missing values in the dataset
-* Analyze data types of each column
-* Visualize missing values using heatmaps
+* 🐍 **Python** – Core programming language used for analysis
+* 📊 **Pandas** – Data manipulation and analysis
+* 📈 **Seaborn** – Data visualization
+* 📉 **Matplotlib** – Plotting graphs and charts
 
 ---
 
-## 🔧 Key Operations Performed
+## 🧠 Approach & Methodology
 
-* Data loading using CSV files
-* Filtering data based on conditions
-* Grouping and aggregation
-* Sorting values
-* Date-time conversion
-* String-based filtering
+* Performed data cleaning and preprocessing
+* Checked missing values and data types
+* Converted `published_timestamp` into Date-Time format
+* Applied filtering techniques to extract specific datasets
+* Used sorting to identify top and least selling courses
+* Applied grouping and aggregation for deeper insights
+* Analyzed trends based on subject, price, and subscribers
+
+---
+
+## 🔍 Data Exploration
+
+* Counted non-null values in each column
+* Identified missing values
+* Analyzed data types
+* Visualized missing data using heatmaps
 
 ---
 
 ## 📊 Project Highlights
 
 * ✔ Data Cleaning & Preprocessing
-* ✔ Feature Understanding
 * ✔ Filtering & Sorting
+* ✔ Grouping & Aggregation
 * ✔ Insight Generation
 
 ---
@@ -80,20 +81,18 @@ This project analyzes the **Udemy Courses Dataset** using Python and Pandas to e
 This project demonstrates how to perform **real-world data analysis using Pandas**, including:
 
 * Understanding dataset structure
-* Extracting meaningful insights
-* Analyzing trends and patterns
+* Extracting insights from data
+* Identifying trends and patterns
 
 ---
 
 ## 🤝 Contributing
 
-Feel free to fork this repository and enhance the analysis.
+Feel free to fork this repository and improve the analysis.
 
 ---
 
 ## 📜 License
 
 This project is open-source and available under the MIT License.
-
----
 
